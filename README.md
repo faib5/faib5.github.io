@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>faib</h1>
+<h1>faibのホームページ</h1>
 </body>
 </html>
